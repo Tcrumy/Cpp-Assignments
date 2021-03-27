@@ -1,0 +1,14 @@
+Ford Mustang
+        2005 Red Coupe Gasoline 5395.95
+Pontiac Firebird
+        1996 Black Coupe Gasoline 8727.32
+Dodge Viper
+        2016 Blue Coupe Gasoline 119733.00
+Ford Focus
+        2015 Silver Sedan Gasoline 8995.47
+Tesla Model 3
+        2018 Red Sedan Electric 49934.29
+Dodge Viper
+        2016 Black Coupe Gasoline 116953.30
+Test Data
+        2019 Red Sport Electric 23729.60
