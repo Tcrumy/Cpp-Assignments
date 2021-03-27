@@ -1,0 +1,17 @@
+{
+  "equations": [
+    {
+      "leftNumber": 10.0,
+      "rightNumber": 2.2,
+      "operand": "+"
+    },
+    {
+      "leftNumber": 3.0,
+      "rightNumber": 2,
+      "operand": "+"
+    }
+  ],
+
+  "author": "Travis Crumb"
+    
+}
